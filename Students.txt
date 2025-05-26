@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello Students12-dev
+=======
+Hello Students
+>>>>>>> origin/master
